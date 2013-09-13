@@ -1,3 +1,10 @@
+# Note
+
+Please note this is a slightly modified version of [revealz](https://github.com/vitojph/revealz) intended only for personal use.
+
+
+# revealz
+
 So... this is basically Reveal.js, but with the Grunt/Node stuff stripped out.
 
 [Demo is here](http://aaronr.github.io/revealz)
